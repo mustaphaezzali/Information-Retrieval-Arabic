@@ -3,6 +3,14 @@ body {
     font-family: Arial, sans-serif;
     color: #ffffff;
 }
+img {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+    
+  }
+  
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
